@@ -1,6 +1,6 @@
 # Weather App
 
-Week 4 of Technigo boot camp. Three of us were working in a team/with pair programming. The assignment was to  build a simple weather app that tells today's weather and temperature and a 5-day forecast using a weather API.
+Week 4 of Technigo boot camp. The assignment was to  build a simple weather app that tells today's weather and temperature and a 5-day forecast using a weather API. Pair programming.
 
 ## The problem
 
